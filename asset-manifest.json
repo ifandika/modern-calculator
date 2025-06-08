@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/modern-calculator/static/css/main.e0977675.css",
+    "main.js": "/modern-calculator/static/js/main.887f42a0.js",
+    "static/js/453.b742231f.chunk.js": "/modern-calculator/static/js/453.b742231f.chunk.js",
+    "index.html": "/modern-calculator/index.html",
+    "main.e0977675.css.map": "/modern-calculator/static/css/main.e0977675.css.map",
+    "main.887f42a0.js.map": "/modern-calculator/static/js/main.887f42a0.js.map",
+    "453.b742231f.chunk.js.map": "/modern-calculator/static/js/453.b742231f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0977675.css",
+    "static/js/main.887f42a0.js"
+  ]
+}
